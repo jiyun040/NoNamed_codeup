@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 #pragma warning(disable:4996)
 
 long long int f()
@@ -10,4 +10,4 @@ int main()
 {
 	printf("%lld", f());
 	return 0;
-}
+}*/
